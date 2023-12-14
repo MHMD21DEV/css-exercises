@@ -1,0 +1,17 @@
+
+.class {
+    background-color: #FAA0A0;
+}
+#one-ID {
+    color: blue;
+    font-size: 36px;
+}
+.cooler-class {
+    background-color:#FAA0A0;
+    font-size: 24px;
+}
+#another-ID {
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size:24px;
+}
